@@ -23,7 +23,9 @@
     - [vue-ele-form-generator](https://github.com/dream2023/vue-ele-form-generator): 基于 `ElementUI` 的超好用表单设计器,支持可视化拖拽,在线预览,本地启动,数据持久化等特点;
     - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making): 基于 vue 和 element-ui 实现的表单设计器，使用了最新的前端技术栈，内置了 i18n 国际化解决方案，可以让表单开发简单而高效;
     - [form-generator](https://jakhuang.github.io/form-generator/#/): Element UI表单设计及代码生成器，可将生成的代码直接运行在基于Element的vue项目中;
+    - [avue 表单设计器](https://form.avuejs.com/): 基于 avue 的超好用表单设计器, 你值得拥有;
     - [vue-element-nocode-admin](https://github.com/Liugq5713/vue-element-nocode-admin):element-ui 的代码可视化编辑;
+
 
   - 设计器:
     - [ivx](https://www.ivx.cn/): 0代码网页设计器💰;
