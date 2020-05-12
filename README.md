@@ -30,6 +30,7 @@
 
   - 设计器:
     - [grapesjs](https://github.com/artf/grapesjs):Free and Open source Web Builder Framework. Next generation tool for building templates without coding;
+    - [wix](https://wix.com): 創建專業網站的絕佳平臺💰;
     - [ivx](https://www.ivx.cn/): 0代码网页设计器💰;
     - [antd-visual-editor](https://github.com/xinyu198736/antd-visual-editor): ant-design 组件库实时可视化编辑器;
     - [layui拖拽布局](http://lowcode.magicalcoder.com/layui): 基于layui的布局器(也有element);
