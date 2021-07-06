@@ -49,6 +49,7 @@
     - [antd-visual-editor](https://github.com/xinyu198736/antd-visual-editor): ant-design 组件库实时可视化编辑器;
     - [layui 拖拽布局](http://lowcode.magicalcoder.com/layui): 基于 layui 的布局器(也有 element);
     - [Web-Editor](https://github.com/bojue/Web-Editor): 基于 angular 的 web 编辑器;
+    - [designable](https://github.com/alibaba/designable)：阿里出品，🧩 Make everything designable 🧩；
 
   - AI + 前端
     - [imgcook](https://github.com/taofed/imgcook): 通过设计稿一键智能生成视图代码
