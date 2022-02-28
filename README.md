@@ -52,6 +52,8 @@
 
     - [formily](https://github.com/alibaba/formily)：阿里巴巴集团统一表单解决方案 [![GitHub stars](https://img.shields.io/github/stars/alibaba/formily)](https://github.com/alibaba/formily) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/formily?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
 
+    - [variant-form](https://github.com/vform666/variant-form)：A powerful form designer for Vue. [![GitHub stars](https://img.shields.io/github/stars/vform666/variant-form)](https://github.com/vform666/variant-form) ![GitHub last commit](https://img.shields.io/github/last-commit/vform666/variant-form?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
+
     - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making): 基于 vue 和 element-ui 实现的表单设计器，使用了最新的前端技术栈，内置了 i18n 国际化解决方案，可以让表单开发简单而高效 [![GitHub stars](https://img.shields.io/github/stars/GavinZhuLei/vue-form-making)](https://github.com/GavinZhuLei/vue-form-making) ![GitHub last commit](https://img.shields.io/github/last-commit/GavinZhuLei/vue-form-making?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
 
     - [form-generator](https://github.com/JakHuang/form-generator): Element UI 表单设计及代码生成器，可将生成的代码直接运行在基于 Element 的 vue 项目中 [![GitHub stars](https://img.shields.io/github/stars/JakHuang/form-generator)](https://github.com/JakHuang/form-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/JakHuang/form-generator?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
