@@ -24,6 +24,8 @@
 
     - [amis](https://github.com/baidu/amis): 前端低代码框架，通过 JSON 配置就能生成各种后台页面, 目前在百度大量用于内部平台的前端开发，已有 100+ 部门使用，创建了 1.2w+ 页面 [![GitHub stars](https://img.shields.io/github/stars/baidu/amis)](https://github.com/baidu/amis) ![GitHub last commit](https://img.shields.io/github/last-commit/baidu/amis?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
 
+    - [lowcode-engine](https://github.com/alibaba/lowcode-engine): 一套面向扩展设计的企业级低代码技术体系 [![GitHub stars](https://img.shields.io/github/stars/alibaba/lowcode-engine)](https://github.com/alibaba/lowcode-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/lowcode-engine?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
+
     - [ams](https://github.com/vipshop/ams): AMS 是基于 Vue.js 和 Element 组件库、通过 JSON 配置来快速搭建管理后台的一整套前端解决方案 [![GitHub stars](https://img.shields.io/github/stars/vipshop/ams)](https://github.com/vipshop/ams) ![GitHub last commit](https://img.shields.io/github/last-commit/vipshop/ams?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
 
     - [mometa](https://github.com/imcuttle/mometa)：面向研发的低代码元编程，代码可视编辑，辅助编码工具 [![GitHub stars](https://img.shields.io/github/stars/imcuttle/mometa)](https://github.com/imcuttle/mometa) ![GitHub last commit](https://img.shields.io/github/last-commit/imcuttle/mometa?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
