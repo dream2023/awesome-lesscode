@@ -18,7 +18,7 @@
 
   - [NocoBase](https://cn.nocobase.com/)：极易扩展的开源无代码开发平台 [![GitHub stars](https://img.shields.io/github/stars/nocobase/nocobase)](https://github.com/nocobase/nocobase) ![GitHub last commit](https://img.shields.io/github/last-commit/nocobase/nocobase?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
 
-  - [NocoBase](https://github.com/wangyuan389/mall-cook)：商城低代码平台，可视化搭建H5、小程序多端商城 [![GitHub stars](https://img.shields.io/github/stars/wangyuan389/mall-cook)](https://github.com/wangyuan389/mall-cook) ![GitHub last commit](https://img.shields.io/github/last-commit/wangyuan389/mall-cook?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
+  - [mall-cook](https://github.com/wangyuan389/mall-cook)：商城低代码平台，可视化搭建H5、小程序多端商城 [![GitHub stars](https://img.shields.io/github/stars/wangyuan389/mall-cook)](https://github.com/wangyuan389/mall-cook) ![GitHub last commit](https://img.shields.io/github/last-commit/wangyuan389/mall-cook?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
 
 - 前端
 
