@@ -48,6 +48,8 @@
 
     - [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode)：vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 [![GitHub stars](https://img.shields.io/github/stars/buqiyuan/vite-vue3-lowcode)](https://github.com/buqiyuan/vite-vue3-lowcode) ![GitHub last commit](https://img.shields.io/github/last-commit/buqiyuan/vite-vue3-lowcode?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
 
+    - [TMagic](https://github.com/Tencent/tmagic-editor)：腾讯开源的可视化搭建平台（vue3 + Typescript）。 [![GitHub stars](https://img.shields.io/github/stars/Tencent/tmagic-editor)](https://github.com/Tencent/tmagic-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/tmagic-editor?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
+
     - [ih5](http://www.ih5.cn/editor3): 专业的 H5 在线制作工具 💰
 
   - 表单设计器:
