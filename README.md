@@ -111,6 +111,10 @@
   - [node-red](https://github.com/node-red/node-red): Low-code programming for event-driven applications
 
   - [noflo](https://github.com/noflo/noflo): Flow-based programming for JavaScript
+  
+  - [Linx](https://linx.software): General-purpose low-code platform for building backends like APIs, automations and integrations
+
+
 
 
 ## 文章
