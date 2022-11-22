@@ -25,6 +25,8 @@
   - [nocodb](https://github.com/nocodb/nocodb)：✨ The open-source Retool alternative [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb)](https://github.com/nocodb/nocodb) ![GitHub last commit](https://img.shields.io/github/last-commit/nocodb/nocodb?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
   
   - [illa-builder](https://github.com/illacloud/illa-builder)：An open-source low-code Platform for Developers. [![GitHub stars](https://img.shields.io/github/stars/illacloud/illa-builder)](https://github.com/illacloud/illa-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/illacloud/illa-builder?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
+
+  - [rowy](https://github.com/rowyio/rowy)：Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser. [![GitHub stars](https://img.shields.io/github/stars/rowyio/rowy)](https://github.com/rowyio/rowy) ![GitHub last commit](https://img.shields.io/github/last-commit/rowyio/rowy?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
   
 - 前端
 
