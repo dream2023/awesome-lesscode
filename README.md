@@ -119,7 +119,14 @@ Low code platform for creating internal tools, workflows, and admin panels in mi
 
     - [vue-draggable](https://github.com/Vivify-Ideas/vue-draggable)：Vue wrapper components for smooth-dnd. [![GitHub stars](https://img.shields.io/github/stars/Vivify-Ideas/vue-draggable)](https://github.com/Vivify-Ideas/vue-draggable) ![GitHub last commit](https://img.shields.io/github/last-commit/Vivify-Ideas/vue-draggable?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
 
+  - 跨技术栈:
+    
+    - [magic-microservices](https://github.com/bytedance/magic-microservices)：About
+Make Web Components easier and powerful!😘. [![GitHub stars](https://img.shields.io/github/stars/bytedance/magic-microservices)](https://github.com/bytedance/magic-microservices) ![GitHub last commit](https://img.shields.io/github/last-commit/bytedance/magic-microservices?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
 
+    - [mitosis](https://github.com/BuilderIO/mitosis)：Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more. [![GitHub stars](https://img.shields.io/github/stars/BuilderIO/mitosis)](https://github.com/BuilderIO/mitosis) ![GitHub last commit](https://img.shields.io/github/last-commit/BuilderIO/mitosis?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
+
+  
 - 后端
   - [yao](https://github.com/YaoApp/yao): Yao A low code engine to create web services and dashboard.
 
