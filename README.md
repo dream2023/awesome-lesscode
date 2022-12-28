@@ -29,7 +29,9 @@
   - [rowy](https://github.com/rowyio/rowy)：Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser. [![GitHub stars](https://img.shields.io/github/stars/rowyio/rowy)](https://github.com/rowyio/rowy) ![GitHub last commit](https://img.shields.io/github/last-commit/rowyio/rowy?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
   
   - [budibase](https://github.com/Budibase/budibase)：About
-Low code platform for creating internal tools, workflows, and admin panels in minutes. . [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase)](https://github.com/Budibase/budibase) ![GitHub last commit](https://img.shields.io/github/last-commit/Budibase/budibase?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
+Low code platform for creating internal tools, workflows, and admin panels in minutes. [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase)](https://github.com/Budibase/budibase) ![GitHub last commit](https://img.shields.io/github/last-commit/Budibase/budibase?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
+
+  - [apitable](https://github.com/apitable/apitable)：🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [![GitHub stars](https://img.shields.io/github/stars/apitable/apitable)](https://github.com/apitable/apitable) ![GitHub last commit](https://img.shields.io/github/last-commit/apitable/apitable?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4)
   
 - 前端
 
