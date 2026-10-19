@@ -152,3 +152,5 @@ Make Web Components easier and powerful!😘. [![GitHub stars](https://img.shiel
 ...期待你的贡献 💃
 
 - [NoCodeVista](https://nocodevista.com/) - No-code website builder for creating professional websites visually â€” no coding needed.
+
+- [Icybiz](https://icybiz.com/) - Free visual website builder with hosting, stable page addresses, and optional forums.
